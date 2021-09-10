@@ -1,0 +1,21 @@
+.cards img{
+width: 200px;
+height: 140px;
+border-radius: 20px;
+}
+.cards{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 5px;
+border-radius: 500px;
+background-color: rgb(255,100,0);
+height: 200px;
+width: 35%;
+box-shadow: 0 0 30px rgba(0,0,0, 1.0);
+padding-left: 100px;
+}
+.cards h4{
+flex-grow: 1;
+padding-left: 10px;
+}

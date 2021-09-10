@@ -1,0 +1,17 @@
+@import url(components/banner.css);
+@import url(components/cards.css);
+@import url(components/buttoms.css);
+@import url(components/container.css);
+@import url(components/avatar.css);
+body{
+	margin: 0px;
+	margin-bottom: 20px;
+	background-color: ghostwhite;
+	font-family: Imprint MT Shadow;
+}
+
+#NakedBikeKTM{
+	color: orange;
+	text-shadow: 0 0 10px black;
+	font-family: Imprint MT Shadow;
+}
